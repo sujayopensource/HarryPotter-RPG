@@ -1,5 +1,5 @@
-# StarWars-RPG
-Star Wars RPG in Java
+# HarryPotter-RPG
+HarryPotter RPG in Java
 
 RPG in Java :)
 
